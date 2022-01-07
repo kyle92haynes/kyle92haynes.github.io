@@ -1,0 +1,290 @@
+/*mobile site*/
+.checkatrade{
+  text-align: center;
+  padding-top: 10px;
+  height: auto;
+  width: auto;
+}
+
+  .mail{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  }
+  .mail:hover{
+    color: white;
+  }
+  .installation{
+    word-wrap: break-word;
+    margin-top: 15px;
+    margin-bottom: 0;
+    border-bottom: solid;
+    border-color: grey;
+    border-right: none;
+    border-width: 2.5px;
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .testing{
+    word-wrap: break-word;
+    padding-right: 0;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+
+  .fontstyle{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .stickybar{
+    position: sticky;
+    top: 0;
+    margin: 0;
+  }
+  .stickybarformat{
+    width: 100%;
+    height: 30px;
+    margin: 0;
+    background-color: lightgrey
+  }
+
+  .stickybarcontact {
+    float: right;
+    color: black;
+    text-decoration: none;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 0 50px 0 0;
+
+  }
+  .stickybarcontact a{
+    display: inline;
+    color: black;
+    text-decoration: none;
+    font-size: 10px;
+    font-weight: bold;
+  }
+
+  .stickybarcontact a:hover{
+    color: white;
+  }
+
+  .contact {
+    display: inline-block;
+    text-decoration: none;
+    box-sizing: border-box;
+    border: solid grey;
+    background-color: lightgrey;
+    padding: 2px;
+    height: auto;
+    color: black;
+    font-weight: bold;
+    font-size: 8px;
+  }
+
+  .contact:hover{
+    background-color: darkgrey;
+    height: auto;
+    color: white;
+  }
+
+  u{
+    padding: 0;
+    text-decoration: none;
+    border-bottom: 5px solid grey;
+  }
+
+  h1{
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .h1padding{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 25px;
+  }
+
+  h3 {
+    font-size: 11px;
+    text-align: center
+  }
+  h2 {
+    font-size: 12.5px;
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
+  }
+
+  p,li{
+    font-size: 10px;
+    text-align: left;
+    margin-left: 0;
+  }
+
+  .box{
+    width: 100%;
+    height: auto;
+    white-space: nowrap;
+    overflow: hidden;
+    margin: 0;
+  }
+
+  .wrapbox{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    background-image: -webkit-linear-gradient(white, darkgrey, white);
+    background-image: -o-linear-gradient(white, darkgrey, white);
+    background-image: linear-gradient(white, darkgrey, white);
+  }
+
+  .wrapboxquote{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    background-image: -webkit-linear-gradient(white, darkgrey, white);
+    background-image: -o-linear-gradient(white, darkgrey, white);
+    background-image: linear-gradient(white, darkgrey, white);
+  }
+
+  .wrapboxwhite{
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+  }
+
+  .wrapboxservices{
+    display: inline-block;
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+    background-color: white;
+  }
+
+  .imageright{
+    float: right;
+    padding: 0 10px 0 0;
+    height: auto;
+    width: auto;
+    margin-right: 20px;
+    margin-top: 40px;
+    margin-bottom: 5px
+  }
+
+  body{
+    margin: 0;
+    padding: 0;
+    border: none;
+  }
+
+  .menu-icon > .line {
+      color: black;
+      border-style: solid;
+      width: 20px;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+      height: 1px;
+      display: block;
+  }
+  .menu-icon > .line + .line {
+      margin-top: 1px;
+  }
+
+  .menu-icon:hover > .line{
+    color: white;
+  }
+
+  header{
+    text-align: center;
+  }
+
+  .Logo{
+    padding: 10px 0 10px 0;
+    Height: 100px;
+    Width: 90px;
+  }
+
+  .dashHr{
+    border-style: dotted;
+    border-width: thick;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 10px;
+    padding: 25px;
+    margin: auto;
+    color: grey;
+  }
+  /* Dropdown Button */
+  .dropbtn {
+    background-color: lightgrey;
+    color: black;
+    width: auto;
+    height: auto;
+    padding: 7.5px 4px 7.5px 4px;
+    font-size: 8px;
+    text-decoration: none;
+    border: none;
+    margin: 0;
+  }
+
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    float: left;
+    border-style: none;
+    border-width: thin;
+  }
+
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 60px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    z-index: 1;
+    padding: 0;
+  }
+
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px 10px 20px;
+    margin: 0;
+    border: none;
+    text-align: center;
+  }
+
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {
+    background-color: #ddd;
+    padding: 10px 20px 10px 20px;
+    margin: 0;
+  }
+
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: inline;
+    padding: 0px;
+  }
+
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn {
+    background-color: darkgrey;
+    height: auto;
+    cursor: pointer;
+  }

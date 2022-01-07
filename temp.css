@@ -1,0 +1,13 @@
+background-image: linear-gradient(top, rgb(255,255,255) 0%, rgb(242,247,
+    207) 20%, rgb(255,141,69) 48%, rgb(148,25,43) 52%, rgb(73,40,13) 56%,
+     rgb(86,109,204) 69%, rgb(217,251,
+    255) 100%);
+background-image: -moz-linear-gradient(center top, rgb(255,255,255) 0%,
+    rgb(242,247,207) 20%,rgb(255,141,69) 48%,rgb(148,25,43) 52%,rgb(73,40,
+    13) 56%,rgb(86,109,204) 69%,rgb(217,251,
+    255) 100%);
+background-image: -webkit-gradient(linear, left top, left bottom,
+     color-stop(0.000, rgb(255,255,255)),color-stop(0.204, rgb(242,247,207)),
+    color-stop(0.487, rgb(255,141,69)),color-stop(0.529, rgb(148,25,43)),
+    color-stop(0.563, rgb(73,40,13)),color-stop(0.698, rgb(86,109,204)),
+    color-stop(1.000, rgb(217,251,255)));

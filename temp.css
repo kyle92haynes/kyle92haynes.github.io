@@ -1,7 +1,7 @@
 body{
   background-image: -webkit-linear-gradient(rgb(255,255,255) 0%, rgb(242,247, 207) 20%, rgb(255,141,69) 48%, rgb(148,25,43) 52%, rgb(73,40,13) 56%, rgb(86,109,204) 69%);
   background-image: -o-linear-gradient(rgb(255,255,255) 0%, rgb(242,247, 207) 20%, rgb(255,141,69) 48%, rgb(148,25,43) 52%, rgb(73,40,13) 56%, rgb(86,109,204) 69%);
-  background-image: linear-gradient(rgb(255,255,255) 0%, rgb(242,247, 207) 20%, rgb(255,141,69) 48%, rgb(148,25,43) 52%, rgb(73,40,13) 56%, rgb(86,109,204) 69%;
+  background-image: linear-gradient(rgb(255,255,255) 0%, rgb(242,247, 207) 20%, rgb(255,141,69) 48%, rgb(148,25,43) 52%, rgb(73,40,13) 56%, rgb(86,109,204) 69%);
   background-size: cover;
   background-repeat: no-repeat;
 }
